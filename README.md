@@ -1,4 +1,3 @@
-Splash Detection Research Of UWA
 ---
 This project aimed to use yolo v4 to detect the splash of Western Australia's high speed road. 
 
